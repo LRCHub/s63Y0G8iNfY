@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Fall in Love",
+  "base_artist": "Suiet",
+  "createdAt": "2025-12-13T12:19:17.657642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fall In Love",
+      "artist": "Bailey Zimmerman",
+      "has_synced": true,
+      "path": "select/01_Fall_In_Love_Bailey_Zimmerman.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fall In Love",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/02_Fall_In_Love_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fall in Love - Remix",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/03_Fall_in_Love_-_Remix_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fall in Love (Remix)",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/04_Fall_in_Love_(Remix)_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Wanna Fall In Love",
+      "artist": "Lila McCann",
+      "has_synced": true,
+      "path": "select/05_I_Wanna_Fall_In_Love_Lila_McCann.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Wanna Fall in Love (Album Version)",
+      "artist": "Lila Mccann",
+      "has_synced": true,
+      "path": "select/06_I_Wanna_Fall_in_Love_(Album_Version)_Lila_Mccann.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Make me Want To Fall In Love",
+      "artist": "F.I.R.",
+      "has_synced": true,
+      "path": "select/07_You_Make_me_Want_To_Fall_In_Love_F.I.R..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "破氣球 (When I Fall In Love…)",
+      "artist": "盧廣仲",
+      "has_synced": true,
+      "path": "select/08_破氣球_(When_I_Fall_In_Love...)_盧廣仲.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "破气球(When I Fall In Love)",
+      "artist": "卢广仲",
+      "has_synced": true,
+      "path": "select/09_破气球(When_I_Fall_In_Love)_卢广仲.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Can Stop Fall in Love",
+      "artist": "Kashitaro Ito",
+      "has_synced": false,
+      "path": "select/10_I_Can_Stop_Fall_in_Love_Kashitaro_Ito.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fall In Love Again",
+      "artist": "Eddie Money",
+      "has_synced": true,
+      "path": "select/11_Fall_In_Love_Again_Eddie_Money.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Could Never Fall In Love With Anybody Else - Piano Demo",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/12_I_Could_Never_Fall_In_Love_With_Anybody_Else_-_Piano_Demo_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fall In Love (feat. will.i.am)",
+      "artist": "Rita Ora feat. will.i.am",
+      "has_synced": true,
+      "path": "select/13_Fall_In_Love_(feat._will.i.am)_Rita_Ora_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fall in Love (feat. will.i.am)",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/14_Fall_in_Love_(feat._will.i.am)_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Too Young To Fall In Love",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/15_Too_Young_To_Fall_In_Love_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Used To Fall In Love",
+      "artist": "Lo Fidelity Allstars",
+      "has_synced": true,
+      "path": "select/16_I_Used_To_Fall_In_Love_Lo_Fidelity_Allstars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fall in Love",
+      "artist": "Suiet",
+      "has_synced": false,
+      "path": "select/pl_01_Fall_in_Love_Suiet.txt"
+    }
+  ]
+}
